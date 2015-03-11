@@ -1,0 +1,5 @@
+-Git
+   Mutiple files saved(Commited) as they are logical related to the same change
+-Google docs
+   Entity under rev control and change is mostly a individual file(Not for coding, but more for documentation)
+
