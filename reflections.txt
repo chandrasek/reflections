@@ -3,3 +3,5 @@
 -Google docs
    Entity under rev control and change is mostly a individual file(Not for coding, but more for documentation)
 
+Branchs - Good trying temporary exploratory code without affecting the Master/Main branch 
+     esp - If multiple changes and other user will be working on it.
